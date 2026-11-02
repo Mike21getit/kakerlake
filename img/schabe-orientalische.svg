@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" role="img">
+<title>Orientalische Schabe (Blatta orientalis), Weibchen mit Stummelflügeln, Illustration in Draufsicht</title>
+<defs>
+<radialGradient id="sh-ori" cx=".38" cy=".3" r=".85"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".55" stop-color="#fff" stop-opacity=".04"/><stop offset="1" stop-color="#000" stop-opacity=".25"/></radialGradient>
+</defs>
+<path d="M210 100 C 240 60 320 30 350 6" fill="none" stroke="#160d09" stroke-width="3" stroke-linecap="round"/>
+<path d="M190 100 C 160 60 80 30 50 6" fill="none" stroke="#160d09" stroke-width="3" stroke-linecap="round"/>
+<path d="M238.1 178 L269.4 150 L312.0 112" fill="none" stroke="#5a3d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M282.2 138.6 l6.0 6.7" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M292.8 129.1 l6.0 6.7" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M303.5 119.6 l6.0 6.7" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M238.1 222 L296.3 236 L363.5 214" fill="none" stroke="#5a3d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M316.5 229.4 l2.8 8.6" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M333.3 223.9 l2.8 8.6" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M350.1 218.4 l2.8 8.6" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M238.1 262 L294.1 330 L354.6 420" fill="none" stroke="#5a3d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M312.2 357.0 l-7.5 5.0" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M327.3 379.5 l-7.5 5.0" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M342.5 402.0 l-7.5 5.0" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M161.9 178 L130.6 150 L88.0 112" fill="none" stroke="#5a3d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M117.8 138.6 l6.0 -6.7" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M107.2 129.1 l6.0 -6.7" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M96.5 119.6 l6.0 -6.7" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M161.9 222 L103.7 236 L36.5 214" fill="none" stroke="#5a3d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M83.5 229.4 l2.8 -8.6" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M66.7 223.9 l2.8 -8.6" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M49.9 218.4 l2.8 -8.6" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M161.9 262 L105.9 330 L45.4 420" fill="none" stroke="#5a3d2b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M87.8 357.0 l-7.5 -5.0" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M72.7 379.5 l-7.5 -5.0" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M57.5 402.0 l-7.5 -5.0" stroke="#5a3d2b" stroke-width="2" stroke-linecap="round"/>
+<path d="M214 478 L230 518" stroke="#160d09" stroke-width="5" stroke-linecap="round"/>
+<path d="M186 478 L170 518" stroke="#160d09" stroke-width="5" stroke-linecap="round"/>
+<path d="M200 196 C 303 200 308 330 290 420 C 272 480 234 490 200 500 C 166 490 128 480 110 420 C 92 330 97 200 200 196 Z" fill="#2e1d15"/>
+<path d="M101.4 300 Q 200 312 298.6 300" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M102.4 326 Q 200 338 297.6 326" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M105.2 352 Q 200 364 294.8 352" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M109.9 378 Q 200 390 290.1 378" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M116.6 404 Q 200 416 283.4 404" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M125.1 430 Q 200 442 274.9 430" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M135.4 456 Q 200 468 264.6 456" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M147.7 482 Q 200 494 252.3 482" fill="none" stroke="#160d09" stroke-width="2.4" opacity=".9"/>
+<path d="M206 206 C 267 206 296 236 292 270 C 267 290 220 284 206 272 Z" fill="#3f2a1e" stroke="#160d09" stroke-width="1.5"/>
+<path d="M194 206 C 133 206 104 236 108 270 C 133 290 180 284 194 272 Z" fill="#3f2a1e" stroke="#160d09" stroke-width="1.5"/>
+<ellipse cx="200" cy="110" rx="21" ry="17" fill="#160d09"/>
+<ellipse cx="213" cy="106" rx="5" ry="7" fill="#0c0806"/>
+<ellipse cx="187" cy="106" rx="5" ry="7" fill="#0c0806"/>
+<path d="M200 118 C 265 118 285 150 281 184 C 274 210 230 214 200 212 C 170 214 126 210 119 184 C 115 150 135 118 200 118 Z" fill="#34221a" stroke="#160d09" stroke-width="1.6"/>
+<path d="M200 118 C 265 118 285 150 281 184 C 274 210 230 214 200 212 C 170 214 126 210 119 184 C 115 150 135 118 200 118 Z" fill="url(#sh-ori)"/>
+<path d="M200 200 C 303 204 308 330 290 420 C 272 480 234 490 200 500 C 166 490 128 480 110 420 C 92 330 97 204 200 200 Z" fill="url(#sh-ori)" opacity=".7"/>
+</svg>
